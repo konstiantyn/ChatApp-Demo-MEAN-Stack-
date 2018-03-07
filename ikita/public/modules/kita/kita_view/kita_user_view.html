@@ -1,0 +1,63 @@
+<div class="row">
+    <div class="col-md-12" ng-controller="loadKitaDataCtrl">
+        <div class="card" ng-controller="kitaCtrl">
+            <div class="header text-center">
+                <h3 class="title">{{kitaname}}</h3>
+                <p class="category">Datenblatt</p>
+            </div>
+            <div class="content text-center">
+                <p class="mb-0">{{kitaEmail}}</p>
+                <address>
+                        <strong>Twitter, Inc.</strong><br>
+                        1355 Market Street, Suite 900<br>
+                        San Francisco, CA 94103<br>
+                        <abbr title="Phone">P:</abbr> (123) 456-7890
+                      </address>
+                      
+                      <address>
+                        <strong>Full Name</strong><br>
+                        <a href="mailto:#">first.last@example.com</a>
+                      </address>
+
+
+                <div class="clearfix"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="row" ng-controller="kitaCtrl">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="header">
+                <h3 class="title">Meine Kita</h3>
+                <p class="category">Führen Sie unterschiedliche Aktionen für Ihre Kita durch.</p>
+            </div>
+            <div class="content">
+                <div class="row">
+
+                    <div class="col-md-6">
+                        <div class="card actions actions-light">
+                            <div class="actions-padding">
+                                <h4 style="font-weight: bold">Nachricht an Kitabetreuer senden</h4>
+                                <a ui-sref="register" class="btn btn-primary  btn-fill">Verfassen</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="card actions ">
+                            <div class="actions-padding">
+                                <h4>"weitere Funktion"</h4>
+                                <a ui-sref="" class="btn btn-primary2 btn-fill">"Test"</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
