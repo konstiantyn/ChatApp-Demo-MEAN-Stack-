@@ -1,0 +1,28 @@
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a2ac0c36aabd41bacc83685"),
+	"count" : NumberInt("11"),
+	"field" : "_id",
+	"model" : "User"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a2ac68145334c340c1c9d5d"),
+	"count" : NumberInt("3"),
+	"field" : "_id",
+	"model" : "Kita"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a2ac68145334c340c1c9d5c"),
+	"count" : NumberInt("1"),
+	"field" : "_id",
+	"model" : "Group"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a69f15884dd8c35dcfd2815"),
+	"count" : NumberInt("1"),
+	"field" : "_id",
+	"model" : "Event"
+},

@@ -1,0 +1,22 @@
+{
+	"__v" : NumberInt("0"),
+	"_id" : NumberInt("0"),
+	"color" : "green",
+	"end" : "2018-01-19T15:30:00",
+	"groupid" : NumberInt("0"),
+	"start" : "2018-01-19T11:00:00",
+	"textColor" : "black",
+	"title" : "Einkaufen gehen",
+	"users" : [ ]
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : NumberInt("1"),
+	"color" : null,
+	"end" : "2018-01-19T15:30:00",
+	"groupid" : NumberInt("0"),
+	"start" : null,
+	"textColor" : null,
+	"title" : "Spielen im Park",
+	"users" : [ ]
+},

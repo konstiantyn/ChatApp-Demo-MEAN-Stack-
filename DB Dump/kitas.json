@@ -1,0 +1,12 @@
+{
+	"__v" : NumberInt("0"),
+	"_id" : NumberInt("3"),
+	"address" : "Neuhuusstrasse 45sd",
+	"description" : "Wir begrüssen Sie in unserer schönen Kita im neue Hüsli. Mini Wenigkeit Jvan Streit arbeite selbst hier und mache dies gemäss Rückmeldungen äusserst schlecht. Testtest test hziugug",
+	"email" : "info@neu-kita.ch",
+	"kanton" : "Zürich",
+	"kitaname" : "Neuhuus-Kita",
+	"ort" : "Neuhuusee Waaass",
+	"plz" : NumberInt("9999"),
+	"telefon" : 35643543473456
+},

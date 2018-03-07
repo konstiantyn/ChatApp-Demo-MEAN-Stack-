@@ -1,0 +1,16 @@
+{
+	"__v" : NumberInt("0"),
+	"_id" : NumberInt("0"),
+	"calendarid" : NumberInt("1"),
+	"description" : "Test Group Neuhuuus",
+	"groupname" : "Räupli",
+	"kitaid" : NumberInt("3")
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : NumberInt("1"),
+	"calendarid" : NumberInt("1"),
+	"description" : "Test Group Neuhuuus",
+	"groupname" : "Schmetterlinge",
+	"kitaid" : NumberInt("3")
+},
